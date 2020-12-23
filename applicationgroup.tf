@@ -13,7 +13,7 @@ resource "azuread_group" "example" {
   //]
 //} 
 
-/*
+
 resource "azuread_group" "example" {
   name = "xpc-alessio"
-}/*
+}
